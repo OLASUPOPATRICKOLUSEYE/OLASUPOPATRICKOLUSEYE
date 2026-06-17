@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hi 👋, I'm Patrick Oluseye OLASUPO (ZachPascal)
 
-<!--
-**OLASUPOPATRICKOLUSEYE/OLASUPOPATRICKOLUSEYE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Founder @ ZachPascal Global Tech  
+### 💻 Full-Stack Developer | AI/ML Engineer  
+### 🌍 Building scalable systems & intelligent digital products
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I’m a Full-Stack Developer and AI/ML Engineer focused on building scalable, production-ready systems that solve real-world problems.
+
+I specialize in designing modern web applications, enterprise platforms, and intelligent systems powered by data and machine learning.
+
+---
+
+## ⚡ What I Do
+
+- 🏗️ Build scalable web applications & SaaS platforms  
+- 🧠 Develop AI/ML-powered solutions  
+- 🔐 Design secure backend systems & APIs  
+- 🎨 Create clean, responsive user experiences  
+- ☁️ Deploy cloud-ready production systems  
+
+---
+
+## 🚀 Featured Work
+
+Some of the systems I’ve worked on:
+
+- 🏭 Enterprise Management & Workflow Systems  
+- 🛒 E-Commerce Platforms with Admin Automation  
+- 📚 Multi-Tenant Academic & Library Systems  
+- 🪖 Role-Based Management & Attendance Systems  
+- 🤖 Machine Learning & Computer Vision Projects  
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**  
+Next.js • React • TypeScript • Tailwind CSS
+
+**Backend**  
+Node.js • Express • tRPC • REST APIs
+
+**Database**  
+PostgreSQL • MongoDB • Supabase • Prisma
+
+**AI / ML**  
+Python • TensorFlow • Keras • OpenCV
+
+**Tools & DevOps**  
+Git • Docker • Vercel • AWS • Cloudflare • Figma
+
+---
+
+## 🎯 Focus Areas
+
+- Scalable System Architecture  
+- SaaS Product Development  
+- AI Integration in Web Applications  
+- Backend Engineering & APIs  
+- Performance Optimization  
+
+---
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/OLASUPOPATRICKOLUSEYE  
+- Portfolio: https://www.zach.it.com  
+- Email: Olasupoolayemi415@gmail.com  
+
+---
+
+⭐ *Building technology that scales, performs, and solves real problems.*
