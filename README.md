@@ -1,7 +1,8 @@
 🚀 Patrick Oluseye OLASUPO (ZachPascal)
 
 Founder & Lead Architect @ ZachPascal Global Tech
-Full-Stack Engineer • AI/ML Engineer • System Architect
+
+Full-Stack Engineer • AI/ML Engineer • System Architect • Author
 
 🌍 Professional Profile
 
