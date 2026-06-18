@@ -2,6 +2,7 @@
 
 Founder & Lead Architect @ ZachPascal Global Tech
 Full-Stack Engineer • AI/ML Engineer • System Architect
+
 🌍 Professional Profile
 
 I am a multidisciplinary technology expert dedicated to building scalable SaaS platforms, enterprise-grade systems, and AI-powered applications engineered for real-world production use. My expertise lies in bridging the gap between complex backend logic and intuitive frontend experiences, utilizing cutting-edge technologies to solve critical business challenges.
