@@ -2,7 +2,7 @@
 
 Founder & Lead Architect @ ZachPascal Global Tech
 
-Full-Stack Engineer • AI/ML Engineer • System Architect • Author
+(Full-Stack Engineer • AI/ML Engineer • System Architect • Author)
 
 🌍 Professional Profile
 
@@ -203,21 +203,25 @@ CDN & Security: Cloudflare • SSL/TLS • OWASP Security Standards
 
 Professional Profiles:
 
-     🌐 Portfolio: www.zach.it.com
+     🌐 Website: www.zach.it.com
      💻 GitHub: OLASUPOPATRICKOLUSEYE
      📧 Email: olasupoolayemi415@gmail.com
 
 Social Media:
 
      Facebook: Patrick Olasupo
+     Facebook (Page): ZachPascal Global Tech
+     Facebook (Group): ZachPascal Global Tech Academy
      Instagram: @patrickolasupo
      TikTok: @patrickolasupo
      Youtube: ZachPascal Academy
      X: @OlasupoOlayemi7
+     Threads: @patrickolasupo
 
 Direct Contact:
 
      📱 WhatsApp: +234 902 194 2611
      📞 Call: +234 805 703 2838
-
+     📧 Email: olasupoolayemi415@gmail.com
+     
 ⭐ Building world-class systems that scale, secure, and solve real problems.
