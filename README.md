@@ -1,4 +1,4 @@
-🚀 Patrick Oluseye OLASUPO (ZachPascal)
+🚀 Patrick Oluseye OLASUPO
 
 Founder & Lead Architect @ ZachPascal Global Tech
 
@@ -157,6 +157,7 @@ Steganography
      Rendering Strategies: Hybrid approaches utilizing both Server-Side Rendering (SSR) and Client-Side Rendering (CSR) for optimal performance.
 
 🛠️ COMPREHENSIVE TECH STACK
+
 🎨 Frontend Engineering
 
 Core: Next.js • React • TypeScript • Tailwind CSS
@@ -211,6 +212,8 @@ Social Media:
      Facebook: Patrick Olasupo
      Instagram: @patrickolasupo
      TikTok: @patrickolasupo
+     Youtube: ZachPascal Academy
+     X: @OlasupoOlayemi7
 
 Direct Contact:
 
