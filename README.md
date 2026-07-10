@@ -1,6 +1,6 @@
 🚀 Patrick Oluseye OLASUPO
 
-Founder & Lead Architect @ ZachPascal Global Tech
+Lead Architect @ Pasvora
 
 (Full-Stack Engineer • AI/ML Engineer • System Architect • Author)
 
@@ -203,25 +203,27 @@ CDN & Security: Cloudflare • SSL/TLS • OWASP Security Standards
 
 Professional Profiles:
 
-     🌐 Website: www.zach.it.com
+     🌐 Website: https://www.pasvora.com/
      💻 GitHub: OLASUPOPATRICKOLUSEYE
-     📧 Email: olasupoolayemi415@gmail.com
+     📧 Email: support@pasvora.com
 
 Social Media:
 
-     Facebook: Patrick Olasupo
-     Facebook (Page): ZachPascal Global Tech
-     Facebook (Group): ZachPascal Global Tech Academy
-     Instagram: @patrickolasupo
-     TikTok: @patrickolasupo
-     Youtube: ZachPascal Academy
-     X: @OlasupoOlayemi7
-     Threads: @patrickolasupo
+     Facebook:
+     WhatsApp:
+     Telegram:
+     Linkedln:
+     Threads:
+     Instagram:
+     TikTok:
+     Bsky:
+     SnapChat:
+     Youtube:
+     X:
 
 Direct Contact:
 
-     📱 WhatsApp: +234 902 194 2611
-     📞 Call: +234 805 703 2838
-     📧 Email: olasupoolayemi415@gmail.com
+     📞 Call: +234 912 165 5775     
+     📧 Email: support@pasvora.com
      
 ⭐ Building world-class systems that scale, secure, and solve real problems.
